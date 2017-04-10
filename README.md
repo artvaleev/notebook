@@ -28,3 +28,14 @@ Webpack 2 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNa
 
 ## Разное
 Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+## Полезно
+### iPhone & iPad viewport
+когда открываешь ссылку - то и снизу, и сверху отображается браузерные панели.
+сверху 64, снизу 44px. то есть видимая часть страницы имеет высоту:
+**iphone**
+* на 4s = 480-64-44 = 372px
+* на 5s = 568-64-44 = 460px
+**ipad**
+* portrait: 768x900
+* landscape: 1024x644
