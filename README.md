@@ -13,6 +13,7 @@
   * http://nosir.github.io/cleave.js/
   * https://github.com/digitalBush/jquery.maskedinput
 * Отзывчивые видео https://github.com/corbindavenport/superembed.js
+* Отслеживание viewport https://github.com/stutrek/scrollMonitor
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
