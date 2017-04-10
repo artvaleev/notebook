@@ -22,3 +22,9 @@
 * https://metabox.io/docs/
 * https://ru.wordpress.org/plugins/duplicator/
 * https://ru.wordpress.org/plugins/types/
+
+## Видео
+Webpack 2 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
+
+## Разное
+Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
