@@ -14,6 +14,11 @@
   * https://github.com/digitalBush/jquery.maskedinput
 * Отзывчивые видео https://github.com/corbindavenport/superembed.js
 * Отслеживание viewport https://github.com/stutrek/scrollMonitor
+* Слайдеры
+ * Slick http://kenwheeler.github.io/slick/
+ * Fotorama http://fotorama.io/
+ * ResponsiveSlides http://responsiveslides.com/
+ * Unslider http://unslider.com/
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
