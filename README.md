@@ -19,6 +19,7 @@
   * Fotorama http://fotorama.io/
   * ResponsiveSlides http://responsiveslides.com/
   * Unslider http://unslider.com/
+* Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
@@ -39,9 +40,11 @@ Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
 ### iPhone & iPad viewport
 когда открываешь ссылку - то и снизу, и сверху отображается браузерные панели.
 сверху 64, снизу 44px. то есть видимая часть страницы имеет высоту:
+
 **iphone**
 * на 4s = 480-64-44 = 372px
 * на 5s = 568-64-44 = 460px
+
 **ipad**
 * portrait: 768x900
 * landscape: 1024x644
