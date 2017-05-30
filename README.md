@@ -48,3 +48,6 @@ Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
 **ipad**
 * portrait: 768x900
 * landscape: 1024x644
+
+## Ресурсы
+telegram-канал ForWeb https://t.me/forwebdev
