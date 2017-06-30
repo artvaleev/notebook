@@ -30,6 +30,9 @@
 * https://ru.wordpress.org/plugins/duplicator/
 * https://ru.wordpress.org/plugins/types/
 
+## Wordpress полезное
+* Генератор страницы кастомных настроек http://wpsettingsapi.jeroensormani.com/
+
 ## Видео
 Webpack 2 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
 
