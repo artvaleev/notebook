@@ -5,7 +5,9 @@
   * https://atomiks.github.io/tippyjs/
   * https://popper.js.org/
 * Работа между вкладками браузера http://engineering.wingify.com/across-tabs/introduction.html
-* alert https://limonte.github.io/sweetalert2/
+* Уведомления
+  * https://limonte.github.io/sweetalert2/
+  * http://izitoast.marcelodolce.com/
 * Модальные окна
   * http://izimodal.marcelodolce.com/
   * http://dimsemenov.com/plugins/magnific-popup/
@@ -14,14 +16,24 @@
 * Маски для input'ов
   * http://nosir.github.io/cleave.js/
   * https://github.com/digitalBush/jquery.maskedinput
+* Автозаполнение http://selectize.github.io/selectize.js/
 * Отзывчивые видео https://github.com/corbindavenport/superembed.js
-* Отслеживание viewport https://github.com/stutrek/scrollMonitor
+* Отслеживание viewport
+  * https://github.com/stutrek/scrollMonitor
+  * http://imakewebthings.com/waypoints/
 * Слайдеры
   * Slick http://kenwheeler.github.io/slick/
   * Fotorama http://fotorama.io/
   * ResponsiveSlides http://responsiveslides.com/
   * Unslider http://unslider.com/
 * Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
+* Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
+* Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
+* Parallax с учетом гироскопа https://github.com/wagerfield/parallax
+* Drag-n-drop, sortable http://rubaxa.github.io/Sortable/
+* Красивые select'ы
+  * http://hernansartorio.com/jquery-nice-select/
+  * https://select2.org/
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
