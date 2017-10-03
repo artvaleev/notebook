@@ -11,6 +11,7 @@
 * Модальные окна
   * http://izimodal.marcelodolce.com/
   * http://dimsemenov.com/plugins/magnific-popup/
+  * https://micromodal.now.sh/
 * Работа с SVG https://maxwellito.github.io/vivus/
 * Фоновое видео https://rishabhp.github.io/bideo.js/
 * Маски для input'ов
@@ -30,7 +31,9 @@
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
 * Parallax с учетом гироскопа https://github.com/wagerfield/parallax
-* Drag-n-drop, sortable http://rubaxa.github.io/Sortable/
+* Drag-n-drop
+  * https://shopify.github.io/draggable/
+  * sortable http://rubaxa.github.io/Sortable/
 * Красивые select'ы
   * http://hernansartorio.com/jquery-nice-select/
   * https://select2.org/
