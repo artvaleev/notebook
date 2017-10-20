@@ -69,5 +69,8 @@ Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
 * portrait: 768x900
 * landscape: 1024x644
 
+### Статьи
+Как работать с CSS-препроцессорами и БЭМ http://nicothin.github.io/idiomatic-pre-CSS/
+
 ## Ресурсы
 telegram-канал ForWeb https://t.me/forwebdev
