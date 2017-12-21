@@ -28,6 +28,7 @@
   * Fotorama http://fotorama.io/
   * ResponsiveSlides http://responsiveslides.com/
   * Unslider http://unslider.com/
+  * Swiper http://idangero.us/swiper/
 * Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
