@@ -23,12 +23,13 @@
 * Отслеживание viewport
   * https://github.com/stutrek/scrollMonitor
   * http://imakewebthings.com/waypoints/
-* Слайдеры
+* Слайдеры/Галереи
   * Slick http://kenwheeler.github.io/slick/
   * Fotorama http://fotorama.io/
   * ResponsiveSlides http://responsiveslides.com/
   * Unslider http://unslider.com/
   * Swiper http://idangero.us/swiper/
+  * PhotoSwipe http://photoswipe.com/
 * Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
