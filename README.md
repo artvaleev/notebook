@@ -49,6 +49,7 @@
 * https://metabox.io/docs/
 * https://ru.wordpress.org/plugins/duplicator/
 * https://ru.wordpress.org/plugins/types/
+* плагин позволяет сделать кастомные настройки https://www.advancedcustomfields.com/add-ons/options-page/
 
 ## Wordpress полезное
 * Генератор страницы кастомных настроек http://wpsettingsapi.jeroensormani.com/
