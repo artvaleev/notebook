@@ -34,6 +34,7 @@
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
 * Parallax с учетом гироскопа https://github.com/wagerfield/parallax
+* Фокусировка на чем-нибудь http://kamranahmed.info/driver
 * Drag-n-drop
   * https://shopify.github.io/draggable/
   * sortable http://rubaxa.github.io/Sortable/
