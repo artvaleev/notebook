@@ -44,6 +44,7 @@
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
+* Style Guide от Google https://google.github.io/styleguide/jsguide.html
 
 ## WordPress plugins
 * https://ru.wordpress.org/plugins/rus-to-lat-advanced/
