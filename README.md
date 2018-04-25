@@ -12,6 +12,7 @@
   * http://izimodal.marcelodolce.com/
   * http://dimsemenov.com/plugins/magnific-popup/
   * https://micromodal.now.sh/
+  * На чистом JS http://robinparisi.github.io/tingle/
 * Работа с SVG https://maxwellito.github.io/vivus/
 * Фоновое видео https://rishabhp.github.io/bideo.js/
 * Маски для input'ов
