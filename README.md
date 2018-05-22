@@ -42,6 +42,7 @@
 * Красивые select'ы
   * http://hernansartorio.com/jquery-nice-select/
   * https://select2.org/
+* Загрузка файлов https://pqina.nl/filepond/
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
