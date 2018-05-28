@@ -43,6 +43,7 @@
   * http://hernansartorio.com/jquery-nice-select/
   * https://select2.org/
 * Загрузка файлов https://pqina.nl/filepond/
+* WYSIWYG https://github.com/jaredreich/pell
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
@@ -64,6 +65,7 @@ Webpack 2 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNa
 
 ## Разное
 Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
+Красивые скриншоты кода https://carbon.now.sh/
 
 ## Полезно
 ### iPhone & iPad viewport
