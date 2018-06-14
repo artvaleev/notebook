@@ -31,6 +31,7 @@
   * Unslider http://unslider.com/
   * Swiper http://idangero.us/swiper/
   * PhotoSwipe http://photoswipe.com/
+  * Owl Carousel https://github.com/OwlCarousel2/OwlCarousel2
 * Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
