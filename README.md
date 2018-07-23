@@ -45,6 +45,7 @@
   * https://select2.org/
 * Загрузка файлов https://pqina.nl/filepond/
 * WYSIWYG https://github.com/jaredreich/pell
+* Lazy load (ленивая загрузка изображений) http://luis-almeida.github.io/unveil/
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
