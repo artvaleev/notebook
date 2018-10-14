@@ -56,6 +56,7 @@
 * https://metabox.io/docs/
 * https://ru.wordpress.org/plugins/duplicator/
 * https://ru.wordpress.org/plugins/types/
+* https://ru.wordpress.org/plugins/enhanced-media-library/
 * плагин позволяет сделать кастомные настройки https://www.advancedcustomfields.com/add-ons/options-page/
 * миграция данных между сайтами (миграция файлов работает при Pull) https://wp-sync-db.github.io/
 
