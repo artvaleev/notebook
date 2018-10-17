@@ -34,6 +34,7 @@
   * Owl Carousel https://github.com/OwlCarousel2/OwlCarousel2
 * Функциональный Select, поле с мультивыбором https://joshuajohnson.co.uk/Choices/
 * Горизонтальный скролл http://www.pixxelfactory.net/jInvertScroll/
+* Плавный скроллбар https://idiotwu.github.io/smooth-scrollbar/
 * Full-screen пролистывание https://github.com/alvarotrigo/pagePiling.js
 * Parallax с учетом гироскопа https://github.com/wagerfield/parallax
 * Фокусировка на чем-нибудь http://kamranahmed.info/driver
