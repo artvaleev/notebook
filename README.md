@@ -19,6 +19,7 @@
   * http://nosir.github.io/cleave.js/
   * https://github.com/digitalBush/jquery.maskedinput
   * https://unmanner.github.io/imaskjs/
+  * https://github.com/vanilla-masker/vanilla-masker
 * Автозаполнение http://selectize.github.io/selectize.js/
 * Отзывчивые видео https://github.com/corbindavenport/superembed.js
 * Отслеживание viewport
