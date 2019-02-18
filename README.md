@@ -69,8 +69,9 @@
 Webpack 2 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
 
 ## Разное
-Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
-Красивые скриншоты кода https://carbon.now.sh/
+* Emoji cheat sheet for GitHub https://www.webpagefx.com/tools/emoji-cheat-sheet/
+* Красивые скриншоты кода https://carbon.now.sh/
+* Lazy загрузка Google fonts https://googlefonts.3perf.com
 
 ## Полезно
 ### iPhone & iPad viewport
