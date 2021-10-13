@@ -1,5 +1,8 @@
 # Всякое полезное
 
+## Сервисы
+* JSON бекенд замокать https://my-json-server.typicode.com/
+* JSON fake api для демо https://jsonplaceholder.typicode.com/
 ## JavaScript/jQuery Libraries
 * Всплывающие подсказки (тултипы)
   * https://atomiks.github.io/tippyjs/
