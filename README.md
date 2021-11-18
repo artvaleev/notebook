@@ -4,6 +4,7 @@
 * JSON бекенд замокать https://my-json-server.typicode.com/
 * JSON fake api для демо https://jsonplaceholder.typicode.com/
 * JSON proxy https://allorigins.win/
+* online whiteboard https://www.tldraw.com/
 ## JavaScript/jQuery Libraries
 * Всплывающие подсказки (тултипы)
   * https://atomiks.github.io/tippyjs/
