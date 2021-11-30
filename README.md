@@ -53,6 +53,7 @@
 * Загрузка файлов https://pqina.nl/filepond/
 * WYSIWYG https://github.com/jaredreich/pell
 * Lazy load (ленивая загрузка изображений) http://luis-almeida.github.io/unveil/
+* валидация схемы https://github.com/jquense/yup
 
 ## JavaScript статьи
 * Getting Started with JavaScript Promises http://www.hongkiat.com/blog/javascript-promise-object/
